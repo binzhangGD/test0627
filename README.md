@@ -14,4 +14,4 @@ https://medium.com/@jegan_50867/kubernetes-lightweight-developer-setup-using-ran
 
 ## For training/consulting enquires, you may reach me at the below email
 jegan@tektutor.org
-bin zhang
+bin zhang 0627
